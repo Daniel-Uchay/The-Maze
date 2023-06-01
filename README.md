@@ -70,11 +70,11 @@ where ```MAP``` is the name of the file found in the maps folder. You can create
 
 Contains all the source code files written in C.
 
-[`inc`](https://github.com/candiepih/The-Maze/tree/main/inc)
+[`inc`](https://github.com/Daniel-Uchay/The-Maze/tree/main/inc)
 
 Contains all the header files.
 
-[`maps`](https://github.com/candiepih/The-Maze/tree/main/maps)
+[`maps`](https://github.com/Daniel-Uchay/The-Maze/tree/main/maps)
 
 Contains map data files. This will be used by the program to output the map layout.
 
