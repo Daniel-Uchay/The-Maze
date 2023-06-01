@@ -66,7 +66,7 @@ where ```MAP``` is the name of the file found in the maps folder. You can create
 
 # Directories
 
-[`src`](https://github.com/candiepih/The-Maze/tree/main/src)
+[`src`](https://github.com/Daniel-Uchay/The-Maze/tree/main/src)
 
 Contains all the source code files written in C.
 
