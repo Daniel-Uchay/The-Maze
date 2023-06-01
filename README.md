@@ -12,7 +12,7 @@ The player can move on several directions and rotate in the same time.
 
 Clone this repo:
 ```bash
-git clone https://github.com/candiepih/The-Maze.git
+git clone https://github.com/Daniel-Uchay/The-Maze.git
 ```
 ## Compiling
 This project makes use of gcc and make for the compilation process.
